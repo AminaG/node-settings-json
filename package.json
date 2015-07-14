@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AminaG/node-settings-json/issues"
   },
-  "homepage": "https://github.com/AminaG/node-settings-json"
+  "homepage": "https://github.com/AminaG/node-settings-json",
+  "devDependencies": {
+    "chai": "^3.0.0"
+  }
 }
