@@ -1,4 +1,4 @@
-Example of settings file:
+Example of settings file (settings.json):
 
     {"moshe":"shalom","a":1}
     
